@@ -4,10 +4,8 @@
 
 <h1 align="center">Hola 👋, I'm Akarshit Srivastava</h1>
 <h3 align="center"></h3>
-<img src="https://media.giphy.com/media/pI2paNxecnUNW/giphy.gif"/>
 
-<!-- 
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> -->
+
 
 ------
 <a href="https://www.linkedin.com/in/akarshit-srivastava-33437a168/">
@@ -23,7 +21,7 @@
   <img align="left" alt="Akarshit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a> 
 
-<<img src="https://media.giphy.com/media/tMpLYisyKhE9q/giphy.gif"
+<<img src="https://media.giphy.com/media/JmnKTjTu2x5aouZ3nx/giphy.gif"
  width="430" align='right'/>
 
 <br/>
