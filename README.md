@@ -23,7 +23,7 @@
   <img align="left" alt="Akarshit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a> 
 
-<<img src="https://media.giphy.com/media/sXgNCQ6qvKVm8/giphy.gif"
+<<img src="https://media.giphy.com/media/3ofT5QM8iEcBwbEwQU/giphy.gif"
  width="430" align='right'/>
 
 <br/>
