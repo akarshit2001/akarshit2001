@@ -8,14 +8,7 @@
 
 
 ------
-<a href="https://www.linkedin.com/in/akarshit-srivastava-33437a168/">
-  <img align="left" alt="Akarshit's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-
-<a href="https://twitter.com/">
-  <img align="left" alt="Akarshit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
-</a> 
 
 <<img src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif"
  width="430" align='right'/>
@@ -42,7 +35,13 @@
 </p>
  
 - ⚡ Fun fact **Watch Hermione Granger strategy, if you feel demotivate.🤓**
+
+
 ------
+<img src="https://github-readme-stats.vercel.app/api?username=akarshit2001&show_icons=true&theme=blue-green&?count_private=true">
+<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshit2001&theme=blue-green&&layout=compact">
+  
+
 <a href="https://www.linkedin.com/in/akarshit-srivastava-33437a168/">
   <img align="left" alt="Akarshit's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -51,6 +50,3 @@
 <a href="https://twitter.com/">
   <img align="left" alt="Akarshit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a> 
-<img src="https://github-readme-stats.vercel.app/api?username=akarshit2001&show_icons=true&theme=blue-green&?count_private=true">
-<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshit2001&theme=blue-green&&layout=compact">
-  
