@@ -40,7 +40,7 @@
 - 
 - <h3 align="left">More about me !</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akarshit-srivastava-%E2%98%81-33437a168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akarshit-srivastava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akarshit-srivastava-%E2%98%81-33437a168/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZvfVe4RcSxYNApvC6GQOSGPUaCzxaggLVx-egijf95pvA0s5sJ25To7gS7mzwllkFew" alt="akarshit-srivastava" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_181500056?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_181500056" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akarshit_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akarshit_26" height="30" width="40" /></a>
 </p>
