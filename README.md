@@ -27,12 +27,13 @@
 
 - 📫 How to reach me **akarshitsrivastava33@gmail.com**
 - 
-- <h3 align="left">More about me !</h3>
+- <h3 align="left">oding Profiles</h3>
 <p align="left">
-<h2> Coding Profiles</h2>
+
 <a href="https://www.hackerrank.com/_181500056?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_181500056" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akarshit_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akarshit_26" height="30" width="40" /></a>
 </p>
+ 
  
 - ⚡ Fun fact **Watch Hermione Granger strategy, if you feel demotivate.🤓**
 
