@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hola 👋, I'm Akarshit Srivastava</h1>
-<h2 align="center">DevOps Guy!</h2>
+<h2 align="center">DevOps Engineer!</h2>
 
 
 
